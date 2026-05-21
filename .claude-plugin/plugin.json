@@ -1,0 +1,9 @@
+{
+  "name": "immobilier-france",
+  "version": "1.0.0",
+  "description": "Analyste immobilier français utilisant les données publiques data.gouv.fr — DVF, BAN, API Géo, PLU.",
+  "author": {
+    "name": "daviddurand"
+  },
+  "license": "MIT"
+}
