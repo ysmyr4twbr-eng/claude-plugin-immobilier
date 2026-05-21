@@ -1,0 +1,14 @@
+{
+  "name": "immobilier",
+  "owner": {
+    "name": "daviddurand",
+    "url": "https://github.com/ysmyr4twbr-eng"
+  },
+  "plugins": [
+    {
+      "name": "immobilier-france",
+      "description": "Analyste immobilier français — DVF, BAN, API Géo, PLU. Analyse des prix, estimation de biens, comparaison de marchés locaux.",
+      "source": "./"
+    }
+  ]
+}
